@@ -1,4 +1,4 @@
-[![Watch the video](./anh.png)](https://youtu.be/n2Yv7kCLXFk)
+[![Watch the video](./anh.jpeg)](https://youtu.be/n2Yv7kCLXFk)
 
 - Network Name: Mumbai Testnet
 - New RPC URL: https://rpc-mumbai.maticvigil.com/
